@@ -92,6 +92,15 @@ An interactive Power BI dashboard was created to analyze customer churn.
 
 Interactive filters allow users to explore different customer segments.
 
+## 📊 Power BI Dashboard(Customer retention analysis)
+
+An interactive Power BI dashboard was created to analyze customer churn patterns and provide business-oriented insights.
+
+### Dashboard Preview
+
+The complete dashboard is available here:
+
+[📊 View Power BI Dashboard PDF](reports/telecom_churn_dashboard.pdf)
 ---
 
 ## 🤖 Machine Learning — Next Stage
