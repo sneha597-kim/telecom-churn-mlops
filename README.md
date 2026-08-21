@@ -36,7 +36,4 @@ The dashboard includes interactive filters that allow users to explore different
 - Internet service
 
 ### Dashboard Preview
-
-![Telecom Customer Churn Dashboard](reports/dashboard.png)
-
 [📊 View Full Power BI Dashboard PDF](reports/telecom_churn_dashboard.pdf)
